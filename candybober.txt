@@ -3,6 +3,6 @@
 
 void main()
 {
-  printf ("Save us");
+  printf ("Save us");// 7y6g7uy
   getch();
 }
